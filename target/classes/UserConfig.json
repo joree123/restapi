@@ -1,0 +1,17 @@
+{
+	"prod": {
+		"uri": "",
+		"username": "mithun@ta.com",
+		"password": "mithun"
+	},
+	"qa": {
+		"uri": "",
+		"username": "qa.mithun@ta.com",
+		"password": "mithun"
+	},
+	"beta": {
+		"uri": "",
+		"username": "beta.mithun@ta.com",
+		"password": "mithun"
+	}
+}
